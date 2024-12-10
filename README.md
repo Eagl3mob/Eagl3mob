@@ -3,8 +3,8 @@
 - 🌱 I’m currently trying to learn c++ on a windows 64bit using codeblocks and sfml. 
 - 💞️ I’m looking to collaborate on what ever i can help with.
 - 📫 How to reach me "by asking"
-- 😄 Pronouns: you
-- ⚡ Fun fact: i programed long time ago on a Zx spectrum 48k
+- 😄 Pronouns: don't know this.
+- ⚡ Fun fact i programed long time ago on a Zx spectrum 48k
 
 <!---
 Eagl3mob/Eagl3mob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
